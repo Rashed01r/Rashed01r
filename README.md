@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatoomre&label=Profile%20views&color=0e75b6&style=flat" alt="fatoomre" /> </p>
 
-- 🌱 I am a professional**Flutter**and**Android**
+- 🌱 I am a professional **Flutter** and **Android**
 - 💬 Ask me about **Android, Java, Kotlin, Dart , Python**
 - 📫 Feel free to reach me out Rashed019r@gmail.com
 - 🤝 I’m looking to collaborate with other developers to build great stuff
