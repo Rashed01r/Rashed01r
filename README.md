@@ -52,8 +52,8 @@
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazkoo"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatoomre&theme=dracula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashed01r&theme=dracula" />
   </picture>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatoomre&layout=compact&theme=holi&border=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashed01r&layout=compact&theme=holi&border=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
